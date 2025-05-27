@@ -1,0 +1,3 @@
+flask db init  
+flask db migrate -m "Create logs table"  
+flask db upgrade  
